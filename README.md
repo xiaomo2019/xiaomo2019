@@ -1,1 +1,1 @@
-![](assets/Bottom_up.svg)
+![](Bottom_up.svg)
